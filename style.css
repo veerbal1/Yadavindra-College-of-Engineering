@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300&display=swap');
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+
+.mech1{
+    background-image: url('./engine.jpg');
+    width: auto;
+    height:auto;
+    background-size: cover;
+}
+
+
+
+.cse1{
+    background-image: url('./CSE.jpg');
+    width: auto;
+    height:auto;
+    background-size: cover;
+}
+
+.ece1{
+    background-image: url('./ece.jpg');
+    width: auto;
+    height:auto;
+    background-size: cover;
+}
+
+
+.app_sci1{
+    background-image: url('./appliedscience.jpg');
+    width: auto;
+    height:auto;
+    background-size: cover;
+}
+
+/* Style all font awesome icons */
+
+.fab {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fab:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fab-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fab-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+#lorem{
+    background-image: linear-gradient(to right,pink,#64ccda);
+    width:auto;
+    height:auto;
+}
